@@ -21,3 +21,9 @@ body {
 img {
     display: block;
 }
+
+.profile-imageimg {
+    border-radius: 100%;
+    border:#262626 2px solid;
+
+}
